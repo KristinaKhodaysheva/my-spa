@@ -5,7 +5,7 @@ export function Header(){
         <nav className="bg-teal-600 text-white">
             <div className="container mx-auto px-4">
                 <div className="flex justify-between items-center h-16">
-                    <Link href="/" className="text-xl font-bold"> SPA React Project</Link>
+                    <Link href="/" className="text-xl font-bold"> Recipe Project</Link>
                     <ul className="flex space-x-6">
                         <li>
                             <Link href="/contact" className="hover:underline">Contact</Link>
